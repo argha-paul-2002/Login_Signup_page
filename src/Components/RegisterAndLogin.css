@@ -1,0 +1,16 @@
+/* Custom CSS for Login/Signup Form */
+.activeColor {
+    color: #2563eb; /* Blue color for active tab */
+  }
+  
+  .pointer {
+    cursor: pointer;
+  }
+  
+  /* Responsive styling */
+  @media (max-width: 640px) {
+    .w-full.max-w-md {
+      max-width: 90%;
+    }
+  }
+  
